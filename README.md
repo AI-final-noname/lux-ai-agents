@@ -1,6 +1,6 @@
 # lux-ai-agents
 
-* template: The example agent provided by official documentation
+* template: For each worker, if there is still space in the cargo, move to the nearest resource tile, otherwise move to the nearest friendly city tile. This is he example agent provided by official documentation.
 
 ## How to add new agents
 
