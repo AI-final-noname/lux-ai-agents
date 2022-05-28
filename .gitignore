@@ -3,3 +3,5 @@ errorlogs
 replays
 replay.json
 *tar.gz
+.*
+
